@@ -1,3 +1,4 @@
-"Roblox",
-"Minecraft",
-"2m"
+local Keys = {
+  "game",
+  "roblox"
+}
